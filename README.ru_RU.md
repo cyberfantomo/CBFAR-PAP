@@ -1,4 +1,4 @@
-## 19.09.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
+## 20.09.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
 ## 🔥 Версия 3 Beta уже доступна!
 
 ### Privacy & Anonymity Patch — это программный комплекс, который повышает анонимность, затрудняет отслеживание и проведение криминалистической экспертизы портативного 4G Wi‑Fi роутера CBF Anon4G+ (GL‑E750 / GL‑E750V2, Mudi).
@@ -38,6 +38,7 @@
 ⚠️ Важно: Функция Smart IMEI Randomization работает только на роутерах с определёнными чипами:
    - GL-E750: только с чипом Quectel EP06-E/A
    - GL-E750V2: только с чипом Quectel EM060K
+   - [Как определить, какая у вас версия роутера — GL‑E750 или GL‑E750V2](https://cyberfantomo.org/gl-e750-version-check)
 
 ---
 
