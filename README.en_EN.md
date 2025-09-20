@@ -1,4 +1,4 @@
-## 19.09.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
+## 20.09.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
 ## 🔥 Version 3 Beta is here!
 
 ### Privacy & Anonymity Patch is a software package designed to enhance anonymity, prevent tracking and block forensic analysis of the portable 4G Wi‑Fi router CBF Anon4G+ (GL‑E750 / GL‑E750V2, Mudi).
@@ -38,6 +38,7 @@ Versions 4.3.19 and 4.3.26 support eSIM functionality on GL-E750V2 via physical 
 ⚠️ Important: The Smart IMEI Randomization function works only on routers with specific chipsets:
    - GL-E750: only with Quectel EP06-E/A chip
    - GL-E750V2: only with Quectel EM060K chip
+   - [How to check if your router is GL‑E750 or GL‑E750V2](https://cyberfantomo.org/gl-e750-version-check)
 
 ---
 
