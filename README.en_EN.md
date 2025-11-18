@@ -1,4 +1,4 @@
-## 20.09.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
+## 19.11.2025 | [Русский](/CyberFantomo/CBFAR-PAP/src/branch/main/README.ru_RU.md) | [English](/CyberFantomo/CBFAR-PAP/src/branch/main/README.en_EN.md)
 ## 🔥 Version 3 Beta is here!
 
 ### Privacy & Anonymity Patch is a software package designed to enhance anonymity, prevent tracking and block forensic analysis of the portable 4G Wi‑Fi router CBF Anon4G+ (GL‑E750 / GL‑E750V2, Mudi).
