@@ -1,7 +1,6 @@
 @echo off
 :: Установить кодовую страницу для поддержки русских символов
 :: Set code page to support Russian characters
-chcp 866 > nul
 
 :: Установить цвет
 :: Set color
