@@ -72,9 +72,7 @@ wget -O decrypt_installer.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/bra
 
 #### 3️⃣ Installation file for Windows 7/10/11
 To install, download the file to your PC or laptop and run it by double-clicking with the left mouse button:
-#### ☁️[Download One-Click_Install_Windows](https://codeberg.org/CyberFantomo/CBFAR-PAP/src/branch/main/One-Click_Install_Windows.bat)
-
-#### 🎥[VIDEO INSTRUCTION](https://vimeo.com/1109194659?fl=pl&fe=vl)
+[![Download One-Click Installer](https://img.shields.io/badge/Скачать-One--Click%20Installer-green?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/main/One-Click_Install_Windows(github).bat)
 
 ---
 
