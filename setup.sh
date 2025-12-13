@@ -26,4 +26,4 @@ echo -e '\033[1;31mWARNING! The entered password is not displayed — this is st
 rm -f ~/.ssh/known_hosts
 
 # Подключение к роутеру и выполнение команд | Connect to the router and execute commands
-ssh root@192.168.8.1 -o StrictHostKeyChecking=accept-new "wget -O decrypt_installer.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh"
+ssh root@192.168.8.1 -o StrictHostKeyChecking=accept-new "wget -O decrypt_installer.sh https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh"
