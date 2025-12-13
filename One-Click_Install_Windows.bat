@@ -1,37 +1,37 @@
 @echo off
-:: Установить кодовую страницу для поддержки русских символов
+:: тАЬ├б├в┬а┬н┬о┬в┬и├в├м ┬к┬о┬д┬о┬в├г├о ├б├в├а┬а┬н┬и├ж├г ┬д┬л├п ┬п┬о┬д┬д┬е├а┬ж┬к┬и ├а├г├б├б┬к┬и├е ├б┬и┬м┬в┬о┬л┬о┬в
 :: Set code page to support Russian characters
 chcp 866 > nul
 
-:: Установить цвет
+:: тАЬ├б├в┬а┬н┬о┬в┬и├в├м ├ж┬в┬е├в
 :: Set color
 color 0A
 
-:: Заголовок
+:: тАб┬а┬г┬о┬л┬о┬в┬о┬к
 :: Headline
-echo Это One-Click Установщик
+echo ┬Э├в┬о One-Click тАЬ├б├в┬а┬н┬о┬в├й┬и┬к
 echo This is a One-Click Installer
 echo.
 echo Privacy ^& Anonymity Patch v3 beta [06.2025]
 echo.
-echo Официальный сайт: www.cbf.st
+echo ┼╜├д┬и├ж┬и┬а┬л├м┬н├л┬й ├б┬а┬й├в: www.cbf.st
 echo Official Website: www.cbf.st
 echo.
-echo Для Роутера:
+echo тАЮ┬л├п ┬Р┬о├г├в┬е├а┬а:
 echo For the Router:
 echo.
 echo CyberFantomo Anon4G+ Router [GL-E750/GL-E750V2]
 echo.
-echo ВВЕДИТЕ ПАРОЛЬ ОТ АДМИН-ПАНЕЛИ И НАЖМИТЕ ENTER.
+echo тАЪтАЪтАжтАЮ╦ЖтАЩтАж ┬ПтВм┬Р┼╜тА╣┼У ┼╜тАЩ тВмтАЮ┼Т╦Ж┬Н-┬ПтВм┬НтАжтА╣╦Ж ╦Ж ┬НтВмтАа┼Т╦ЖтАЩтАж ENTER.
 echo ENTER THE ADMIN PANEL PASSWORD AND PRESS ENTER.
-echo ВНИМАНИЕ! Вводимый пароль не отображается - это стандартная практика для обеспечения безопасности.
+echo тАЪ┬Н╦Ж┼ТтВм┬Н╦ЖтАж! тАЪ┬в┬о┬д┬и┬м├л┬й ┬п┬а├а┬о┬л├м ┬н┬е ┬о├в┬о┬б├а┬а┬ж┬а┬е├в├б├п - ├н├в┬о ├б├в┬а┬н┬д┬а├а├в┬н┬а├п ┬п├а┬а┬к├в┬и┬к┬а ┬д┬л├п ┬о┬б┬е├б┬п┬е├з┬е┬н┬и├п ┬б┬е┬з┬о┬п┬а├б┬н┬о├б├в┬и.
 echo ATTENTION! The entered password is not displayed - this is standard practice for security.
 echo.
 
 :: Remove known_hosts
 del "%USERPROFILE%\.ssh\known_hosts" /Q
 
-:: Подключение к роутеру и выполнение команд
+:: ┬П┬о┬д┬к┬л├о├з┬е┬н┬и┬е ┬к ├а┬о├г├в┬е├а├г ┬и ┬в├л┬п┬о┬л┬н┬е┬н┬и┬е ┬к┬о┬м┬а┬н┬д
 :: Connecting to the router and executing commands
-ssh root@192.168.8.1 -o StrictHostKeyChecking=accept-new "wget -O decrypt_installer.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh"
+ssh root@192.168.8.1 -o StrictHostKeyChecking=accept-new "wget -O decrypt_installer.sh https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh"
 pause
