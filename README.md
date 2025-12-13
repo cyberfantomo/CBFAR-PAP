@@ -56,7 +56,7 @@
 Для установки необходимо открыть терминал на Android, в Linux или на macOS и вставьте следующую команду:
 
 ```bash
-curl -o setup.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/setup.sh && chmod +x setup.sh && ./setup.sh
+curl -o setup.sh https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ---
@@ -65,14 +65,14 @@ curl -o setup.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/set
 Для установки войдите в роутер по SSH, затем скопируйте и вставьте следующую команду:
 
 ```bash
-wget -O decrypt_installer.sh https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://codeberg.org/CyberFantomo/CBFAR-PAP/raw/branch/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh
+wget -O decrypt_installer.sh https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/decrypt_installer.sh && wget -O encrypted_installer.txt https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/encrypted_installer.txt && chmod +x decrypt_installer.sh && ash decrypt_installer.sh
 ```
 
 ---
 
 #### 3️⃣ Установочный файл для Windows 7/10/11
 Для установки необходимо скачать файл на ПК или ноутбук и запустить его двойным щелчком левой кнопки мыши:
-#### ☁️[Скачать One-Click_Install_Windows](https://codeberg.org/CyberFantomo/CBFAR-PAP/src/branch/main/One-Click_Install_Windows.bat)
+#### ☁️[Скачать One-Click_Install_Windows](https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/One-Click_Install_Windows.bat)
 
 #### 🎥[ВИДЕОИНСТРУКЦИЯ](https://vimeo.com/1109194659?fl=pl&fe=vl)
 
