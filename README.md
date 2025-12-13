@@ -72,7 +72,8 @@ wget -O decrypt_installer.sh https://raw.githubusercontent.com/cyberfantomo/CBFA
 
 #### 3️⃣ Установочный файл для Windows 7/10/11
 Для установки необходимо скачать файл на ПК или ноутбук и запустить его двойным щелчком левой кнопки мыши:
-#### ☁️[Скачать One-Click_Install_Windows](https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/One-Click_Install_Windows.bat)
+#### ☁️[Скачать One-Click_Install_Windows](https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/refs/heads/main/One-Click_Install_Windows(github).bat)
+[![Скачать One-Click Installer](https://img.shields.io/badge/Скачать-One--Click%20Installer-green?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/cyberfantomo/CBFAR-PAP/main/One-Click_Install_Windows(github).bat)
 
 #### 🎥[ВИДЕОИНСТРУКЦИЯ](https://vimeo.com/1109194659?fl=pl&fe=vl)
 
