@@ -1,4 +1,4 @@
-## 19.11.2025 | [Русский](/README.md) | [English](/README.en_EN.md)
+## 03.01.2026 | [Русский](/README.md) | [English](/README.en_EN.md)
 ## 🔥 Version 3 Beta is here!
 
 ### Privacy & Anonymity Patch is a software package designed to enhance anonymity, prevent tracking and block forensic analysis of the portable 4G Wi‑Fi router CBF Anon4G+ (GL‑E750 / GL‑E750V2, Mudi).
